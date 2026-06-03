@@ -1,2 +1,2 @@
 # labtermo
-Experiências de Temrodinâmica do laboratório de Física da FATEC-SP
+Experiências de Termodinâmica do laboratório de Física da FATEC-SP
